@@ -1,6 +1,10 @@
 # Personal-Description
-I am studying Multi-Platform Application Development (DAM), where I am developing my skills in programming, software development, databases, and web technologies. I enjoy creating websites and applications, especially with the help of AI, and I like exploring how far AI can be pushed in different areas.
+👨‍💻 I am currently studying Multi-Platform Application Development (DAM), where I am learning about programming, web development, databases, and software development.
 
-I am also interested in experimenting with new technologies, testing different tools, and comparing their capabilities to understand their strengths and weaknesses. I enjoy solving problems, learning through experimentation, and finding creative ways to improve my projects. I am curious about how technology is evolving and how AI can be integrated into software development to make the process more efficient and innovative.
+🚀 I really enjoy creating websites and applications, especially using AI as a tool to bring new ideas to life. I love experimenting with AI, testing its limits, and discovering new ways to use it in my projects.
 
-In my free time, I like working on personal projects, trying new ideas, and challenging myself to learn something new. My goal is to continue improving my technical skills while exploring the possibilities of AI, web development, and software engineering.
+🔍 I’m also interested in comparing different technologies, tools, and AI models to see how they perform and understand their strengths and weaknesses. I enjoy experimenting, solving problems, and finding creative solutions.
+
+💡 I’m a curious person who likes learning by doing, trying new things, and challenging myself with new projects. I’m especially interested in the future of AI and how it can change the way we develop software and create digital experiences.
+
+🎯 My goal is to keep improving my skills, explore new technologies, and turn my ideas into interesting and useful projects.
