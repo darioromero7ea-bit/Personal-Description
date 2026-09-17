@@ -1,4 +1,4 @@
-# Personal-Description
+# darioromero7ea-bit
 👨‍💻 I am currently studying Multi-Platform Application Development (DAM), where I am learning about programming, web development, databases, and software development.
 
 🚀 I really enjoy creating websites and applications, especially using AI as a tool to bring new ideas to life. I love experimenting with AI, testing its limits, and discovering new ways to use it in my projects.
